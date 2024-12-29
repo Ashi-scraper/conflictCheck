@@ -1,2 +1,2 @@
 City: Bombay
-Country : India
+Country: India
